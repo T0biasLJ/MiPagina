@@ -1,7 +1,25 @@
+
+
+
+
 #Titulo {
+    font-size: 3em;
+    font-family: 'Bebas Neue', cursive;
     color: brown;
 }
 
 #Presentacion {
-    color: crimson;
+    color: black;
+    
+}
+
+#pal1 {
+    margin: 5px;
+    font-size: 2em;
+    display: inline;
+}
+
+#pal2 {
+    font-size: 2em;
+    display: inline;
 }
